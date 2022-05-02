@@ -16,6 +16,3 @@ FROM bitnami/dataplatform-exporter:1.0.1-scratch-r24
 
 # Tags: 1.0.1-scratch-r23
 FROM bitnami/dataplatform-exporter:1.0.1-scratch-r23
-
-# Tags: 1.0.1-scratch-r22
-FROM bitnami/dataplatform-exporter:1.0.1-scratch-r22
